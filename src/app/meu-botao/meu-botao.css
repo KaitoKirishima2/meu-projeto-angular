@@ -13,11 +13,7 @@
   box-sizing: border-box;
 }
 
-.btn-flat {
-  background-color: var(--white);
-  border: 2px solid var(--primary-orange);
-  color: var(--primary-orange);
-}
+
 
 .btn-filled {
   /* ... (o resto do código continua na linha 22) */
